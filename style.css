@@ -22,7 +22,7 @@
 }
 .nlf-fw {
   text-align: center;
-  width: 1.4em;
+  width: 1.5em;
 }
 
 /* makes the font 33% larger relative to the icon container */
@@ -157,5 +157,4 @@
 }
 .nlf-logo:before {
   content: "\e907";
-  color: #000;
 }
