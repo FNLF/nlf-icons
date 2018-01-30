@@ -134,21 +134,25 @@
   color: #ffffff;
 }
 
+.nlf-propeller-spin {
+    margin-top: 5%;
+    margin-left: 23%;
+}
+
+.nlf-propeller:before {
+  content: "\e903";
+}
+.nlf-fallskjerm:before {
+  content: "\e90a";
+}
 .nlf-logo-original:before {
   content: "\e900";
-  color: #134263;
 }
 .nlf-logo:before {
   content: "\e901";
-  color: #134263;
 }
 .nlf-logo-plain:before {
   content: "\e902";
-  color: #134263;
-}
-.nlf-nlf-propeller:before {
-  content: "\e903";
-  color: #134263;
 }
 .nlf-seilfly:before {
   content: "\e904";
